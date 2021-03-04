@@ -1,0 +1,286 @@
+body {
+    overflow-x: hidden;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.home, .logo, .input1, img {
+    display: inline;
+} 
+
+.Home {
+    margin: 20px 12px 20px 23px;
+    position: relative;
+}
+.logo img {
+    width: 92px;
+    height: 30px;
+    margin-top: 10px;
+}
+
+.home_right {
+    position: relative;
+    top: 20px;
+    right: 50px;
+    float: right;
+    margin-top: 8px;
+    padding-right:10px;
+    padding-left: 32px;
+    font-size: 25px;
+    margin-right: 10px;
+}
+
+.home_right a {
+    color: black;
+    font-family: sans-serif;
+    text-decoration: none;
+    font:  13px/27px Roboto, RobotoDraft, Arial, sans-serif;
+    padding: 0 8px;
+}
+
+.pro {
+    position: absolute;
+    padding-left: 10px;
+    bottom: 2px;
+    
+    width: 35px;
+    height: 35px; 
+}
+
+.home_right a:hover {
+    text-decoration: underline;
+    
+}
+
+.search {
+    position: relative;
+    bottom: 60px;
+    right: 270px;
+    text-align: center;
+    border: 1px solid #D2BBB6;
+    width: 680px;
+    margin: auto;
+    border-radius: 30px;
+    opacity: ;
+    box-sizing: border-box;
+    border-color: #d9d6d4;
+    box-shadow: 0px 3px 5px rgb(0, 0, 0, 0.1);
+}
+
+input {
+    width: 460px;
+    height: 45px;
+    font-size: 16px;
+    border: 0;
+    outline: 0;
+    margin: 0 10px;
+    margin-right:80px;
+     
+}
+
+.search a {
+    color: #836761;
+}
+
+.search:hover {
+    box-shadow: 0 1px 6px gray;
+}
+
+.cons {
+    border-bottom: 1px solid #e6e0df;
+    position: relative;
+    bottom: 1px;
+}
+.cantainer {
+    position: absolute;
+    bottom: 18px;
+    left: 11%;
+}
+
+
+.cantainer ul li {
+    list-style: none;
+    display: inline;
+    font-size: 14px;
+}
+
+.cantainer ul li a {
+    text-decoration: none;
+    color: #5f6368;
+    padding: 0px 10px;
+}
+
+.all {
+    color: #1a73e8;
+    border-bottom: 2px solid #1a73e8;
+    color: #1a73e8;
+    padding-bottom: 20px;  
+}
+
+.sett {
+    display: inline;
+    margin-left: 70px
+}
+
+.container {
+    margin: 12px 183px;
+}
+
+.rang {
+    color: #5f6368;
+    font-size: 15px;
+    
+}
+
+.wel {
+   font-weight: normal;
+}
+
+h2 a {
+    text-decoration: none;  
+}
+
+.container h2 {
+    margin-top: 3px;
+}
+
+.size {
+    line-height: 2;
+}
+
+.cont {
+    margin-left: 200px;
+}
+.cont form input {
+  width: 37%;
+  height: 0.5px;;
+  border: 2px solid #ccc;
+  border-radius: 6px;
+  font-size: 12px;
+  background-color: white;
+  padding: 12px 20px 12px 4px; 
+}
+
+.cont form img {
+    position: relative;
+    right: 114px;
+    top: 5px;
+    width: 18px;
+    height: 18px;
+}
+
+.down h2 {
+    margin-top: 15px;
+    color: #1a0dab;
+    font-weight: 540;
+    font-size: 20px;
+    line-height: 1.3;
+}
+
+.down {
+    margin-left: 15px;
+   
+}
+
+.left {
+    position: relative;
+    left: 330px;
+    bottom: 229px;
+   
+
+}
+
+.wiki {
+    position: relative;
+    right: 355px;
+    top: 7px;
+    
+}
+
+.w3top {
+    position: relative;
+    top: 10px;
+    
+}
+
+.gogle {
+    position: relative;
+    top: 160px;
+    left: 100px;
+    letter-spacing: 2px;
+}
+
+.numb {
+    letter-spacing: 4px;
+    text-decoration: none;
+    position: relative;
+    top: 170px;
+    left: 119px;
+    font-size: 15px;
+    
+}
+
+.img1 {
+    position: absolute;
+    width: 350px;
+    left: 750px;
+    bottom: -100px
+        
+}
+
+.homefooter {
+    position: ;
+    bottom: 0;
+    width: 100%;
+    background-color: #F3EFEE;   
+}
+
+.uzb {
+    height: 20px;
+    border-bottom: 0.5px solid #D3C3BE;
+    padding-top: 12px;
+    padding-bottom: 10px
+}
+
+.uzb p {
+    font-size: 14px;
+    font-family: sans-serif;
+    font-weight: 300;
+    color: #5E5755;
+    display: inline;
+}
+
+.cant {
+    padding-left: 10%;
+    
+}
+
+.data p {
+word-spacing: 17px;
+font-size: 16px;
+padding-bottom: 10px;
+padding-top: 10px;
+color: #5E5755;
+}
+
+.data p:hover {
+    cursor: pointer;
+}
+
+.tash {
+    padding-left: 50px;
+    font-weight: bold;
+}
+
+.pypi {
+    position: absolute;
+    bottom: -68px;
+}
+
+
+
+
+
